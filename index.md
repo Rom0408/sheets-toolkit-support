@@ -5,7 +5,7 @@ Last updated: 2026-11-23
 
 **What we collect.** Nothing. The add-on has no server, no analytics, no cookies, and sends no data to us or to third parties. Spreadsheet content is never stored or transmitted outside Google.
 
-**Payments (if/when a paid tier is offered).** Payments are handled by a third-party payment processor; we receive only a license status, not card details.
+**Payments (if/when a paid tier is offered).** Payments are handled by Paddle.com (Merchant of Record), which collects and stores payment details under its own privacy policy. We never see card details; we receive only your email and license status.
 
 **Data retention / deletion.** We hold no user data. Uninstall the add-on at any time from Google Workspace Marketplace → Manage apps.
 
