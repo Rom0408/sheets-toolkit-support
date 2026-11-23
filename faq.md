@@ -8,3 +8,7 @@
 **Clean selection changed "00123" to 123.** Text-numbers are converted to numbers; exclude ID/ZIP columns from the selection.
 **Custom functions slow?** They run per cell; use on ranges via ARRAYFORMULA: =ARRAYFORMULA(GREG2HEB(A2:A)).
 **How do I uninstall?** Extensions → Add-ons → Manage add-ons.
+
+
+---
+[Pricing](pricing) · [Terms](terms) · [Refund policy](refund-policy) · [FAQ](faq)

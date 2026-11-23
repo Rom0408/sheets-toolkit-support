@@ -14,3 +14,7 @@ Last updated: 2026-11-23
 **Changes.** Updates will be posted at this URL with a new date.
 
 **Contact:** sparkyardlabs@gmail.com
+
+
+---
+[Pricing](pricing) · [Terms](terms) · [Refund policy](refund-policy) · [FAQ](faq)
