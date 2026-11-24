@@ -9,7 +9,7 @@ Last updated: 2026-11-23
 6. **No warranty.** Provided "as is". Verify results before relying on them, especially dates and bulk edits to your data. Back up your sheet first.
 7. **Liability.** To the extent permitted by law, our liability is limited to the amount you paid in the previous 12 months.
 8. **Changes.** We may update these terms or the service; changes are posted here.
-9. **Contact.** sparkyardlabs@gmail.com
+9. **Contact.** hello@grid-smith.com
 
 
 ---

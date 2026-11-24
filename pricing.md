@@ -10,7 +10,7 @@ Last updated: 2026-11-23
 
 Payments are processed by Paddle, our Merchant of Record. Taxes (VAT/sales tax) are added at checkout where required. Cancel any time; access continues until the end of the paid period.
 
-Support: sparkyardlabs@gmail.com
+Support: hello@grid-smith.com
 
 
 ---
